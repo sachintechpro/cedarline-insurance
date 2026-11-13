@@ -2,6 +2,8 @@
 
 Cedarline is a fictional California personal-lines carrier built as an interactive portfolio case study. It demonstrates insurance product and delivery knowledge through a browser-only experience for customers, producers, and underwriters.
 
+**Live demo:** https://cedarline-insurance-sachin.sachin-techpro.chatgpt.site/
+
 ## Try the workflows
 
 - **Customer:** build a home, auto, or bundled quote; review coverages; request a simulated bind; inspect policy, billing, claims, and support pages.
