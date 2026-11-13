@@ -1,0 +1,3 @@
+# Local deployment archives and OS/editor files
+/outputs/
+.DS_Store
