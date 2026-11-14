@@ -1,0 +1,11 @@
+id,type,name,status,premium,due,detail
+AUTO,Auto,Personal auto,Renewal offered,3420,2027-01-01,Four vehicles. Verify adult driver garaging before accepting renewal.
+HOME-1,Home,Primary homeowners,Active,2180,2027-05-01,Dwelling limit $780000. All other perils deductible $2500.
+HOME-2,Home,Secondary home quote,Awaiting signature,1960,2026-12-15,Dwelling limit $620000. Binding requires signed acceptance.
+HOME-3,Home,Seasonal home submission,Underwriting review,2870,2026-12-20,Wildfire exposure referral. Current roof documentation required.
+TRAVEL,Camper,Camper bind request,Bind pending,740,2026-12-15,Agreed value $41000. Confirm storage and bind checklist.
+LAND-1,Rental,North Hollywood landlord,Active,1690,2027-04-01,Dwelling limit $490000. Long-term tenant occupancy.
+LAND-2,Rental,Burbank landlord,Renewal offered,1850,2027-01-15,Confirm occupancy and loss history with the producer.
+LAND-3,Rental,Pasadena landlord quote,Draft,1780,2026-12-31,Producer must verify tenant occupancy before submission.
+CL-01,Claim,Highlander collision,Assigned,,2026-12-03,Parking-lot collision. Estimate pending. Collision deductible $1000.
+INV-01,Billing,Auto installment,Due,285,2026-12-20,Auto installment payable on the scheduled due date.

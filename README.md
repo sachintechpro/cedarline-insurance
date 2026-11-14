@@ -25,3 +25,9 @@ This is a static front-end demonstration. It has no backend, identity provider, 
 ## Local preview
 
 Serve `dist/` with any static web server and open `index.html`. The app uses only local HTML, CSS, JavaScript, and browser storage; it has no package installation or build step.
+
+## Connected Morgan household
+
+Open **Connected account** in the sidebar and switch roles in the header to follow the same records. Try requesting roof evidence as Underwriter, providing it as Customer, and then clearing the referral. For claims, report a loss as Customer, assign it as Claims Adjuster, and review the status message under Customer. Producer handles binding and renewal follow-up. Product Admin monitors aggregate workflow counts.
+
+Seed data lives in `dist/connected-data/` as separate people, assets, records, and tasks CSVs. The connected account uses browser-local state across role views. Reload sample data from the Customer view restores this scenario. The older standalone views retain their original sample workflows.

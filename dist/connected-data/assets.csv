@@ -1,0 +1,12 @@
+id,kind,name,location,person_id,policy_id
+V01,Auto,2022 Toyota Highlander,Chatsworth,P01,AUTO
+V02,Auto,2021 Honda Accord,Chatsworth,P02,AUTO
+V03,Auto,2020 Mazda CX-5,Pasadena,P03,AUTO
+V04,Auto,2023 Subaru Crosstrek,Chatsworth,P04,AUTO
+H01,Home,Primary residence,Chatsworth,P01,HOME-1
+H02,Home,Secondary residence,Palm Springs,P02,HOME-2
+H03,Home,Seasonal residence,Big Bear Lake,P01,HOME-3
+C01,Camper,2022 Airstream Basecamp 20X,Chatsworth,P02,TRAVEL
+R01,Rental,Long-term rental,North Hollywood,P01,LAND-1
+R02,Rental,Long-term rental,Burbank,P02,LAND-2
+R03,Rental,Prospective rental,Pasadena,P01,LAND-3

@@ -1,0 +1,7 @@
+id,record_id,role,message
+T01,AUTO,Customer,Review your renewal offer and confirm driver garaging.
+T02,LAND-2,Producer,Confirm occupancy before the landlord renewal.
+T03,HOME-3,Underwriter,Review wildfire exposure and request current roof evidence.
+T04,CL-01,Claims Adjuster,Review collision details and request a repair estimate.
+T05,TRAVEL,Producer,Verify camper storage details before binding.
+T06,INV-01,Customer,Your next auto installment is due December 20.
