@@ -26,6 +26,10 @@ This is a static front-end demonstration. It has no backend, identity provider, 
 
 Serve `dist/` with any static web server and open `index.html`. The app uses only local HTML, CSS, JavaScript, and browser storage; it has no package installation or build step.
 
+## Automated checks
+
+Run `node --test tests/*.test.cjs` to check the connected household workflow and responsive navigation behavior. Mobile menu checks cover 320, 360, 375, 390, and 430 px phone widths; breakpoint and layout rules are also checked for tablet and desktop sizes.
+
 ## Connected Morgan household
 
 Open **Connected account** in the sidebar and switch roles in the header to follow the same records. Try requesting roof evidence as Underwriter, providing it as Customer, and then clearing the referral. For claims, report a loss as Customer, assign it as Claims Adjuster, and review the status message under Customer. Producer handles binding and renewal follow-up. Product Admin monitors aggregate workflow counts.
